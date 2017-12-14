@@ -1,0 +1,17 @@
+.section-main {
+  padding-top: 50px;
+  background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("/img/");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../img/Plain flight Background.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  color: #fff;
+  text-align: center; }
+
+.section-main img {
+  width: 400px; }
+
+.main-nav {
+  font-size: 90%; }
+
+/*# sourceMappingURL=style.css.map */
